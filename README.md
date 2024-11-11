@@ -1,4 +1,4 @@
-# Predicting Dota 2 Match Outcomes Through Chat Log Analysis
+# Predicting Dota 2 Match Outcomes Using Chat Logs
 
 This repository contains the model codes for our paper investigating the use of in-game chat logs for predicting Dota 2 match outcomes using supervised learning approaches.
 
